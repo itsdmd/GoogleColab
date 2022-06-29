@@ -1,0 +1,2 @@
+https://drive.google.com/file/d/1dSFhxg7awuLmQpKtrZYS3TAES13Smnhx/view?usp=sharing
+https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz
